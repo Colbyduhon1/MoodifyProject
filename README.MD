@@ -6,7 +6,7 @@ Moodify - Analyzes mood of song or book, create a user account to save search hi
 
 Musixmatch https://developer.musixmatch.com/ <br />
 Spotify https://developer.spotify.com/web-api/ <br />
-IBM Watson Tone Analyzer https://www.ibm.com/watson/developercloud/tone-analyzer.html
+IBM Watson Tone Analyzer https://www.ibm.com/watson/developercloud/tone-analyzer.html <br />
 Google Books https://developers.google.com/books/
 
 
